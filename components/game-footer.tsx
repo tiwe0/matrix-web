@@ -12,7 +12,7 @@ export function GameFooter() {
             className="pixel-corners hover:bg-primary hover:text-primary-foreground transition-colors bg-transparent"
             asChild
           >
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+            <a href="https://github.com/tiwe0" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
               <Github className="h-5 w-5" />
             </a>
           </Button>
@@ -22,17 +22,7 @@ export function GameFooter() {
             className="pixel-corners hover:bg-primary hover:text-primary-foreground transition-colors bg-transparent"
             asChild
           >
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
-              <Twitter className="h-5 w-5" />
-            </a>
-          </Button>
-          <Button
-            variant="outline"
-            size="icon"
-            className="pixel-corners hover:bg-primary hover:text-primary-foreground transition-colors bg-transparent"
-            asChild
-          >
-            <a href="mailto:contact@thematrix.game" aria-label="Email">
+            <a href="mailto:contact@ivory.cafe" aria-label="Email">
               <Mail className="h-5 w-5" />
             </a>
           </Button>
